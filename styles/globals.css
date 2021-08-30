@@ -1,7 +1,8 @@
 body{
-	background-image: url('/bg.jpg');
+	background-image: url('/bg2.jpg');
 	background-size: cover;
 	background-repeat: none;
+	background-position: center;
   max-height: 100vh;
   overflow: hidden;
 }
